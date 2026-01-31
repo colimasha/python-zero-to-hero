@@ -22,3 +22,4 @@ print(f"i bought {quantity} kg of sugar")
 print(f"the price is {price}")
 print(f"Are you a student {is_student}")
 
+
