@@ -2,6 +2,8 @@
 
 A structured roadmap to master Python programming from basics to advanced concepts.
 
+![Python Roadmap](python.png)
+
 ## 1. Learn the Basics
 
 ### Core Fundamentals
@@ -167,4 +169,3 @@ Once you're comfortable with Python:
 ---
 
 *Visit roadmap.sh for detailed interactive versions and more learning resources!*
-
